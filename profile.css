@@ -1,0 +1,42 @@
+.container {
+    background-color:#1cd7d78f;
+    padding-bottom: 20px;
+ }
+ h1{
+     color: rgb(255, 250, 250);
+ }
+ h3{
+     color: aliceblue;
+ }
+ h4{
+     color: aliceblue;
+ }
+ 
+ body{
+     border: 8cap solid transparent;
+     background-color:rgb(12, 7, 7);
+     width:fit-content;
+     margin:6%;
+     background-size:contain;
+     border: 3cap solid rgb(210, 219, 230);
+     margin-top:2%;
+ }  
+ .projects, .CERTIFICATIONS, .Contact {
+     color: rgb(255, 255, 255);
+ }
+ ul {
+     color: rgba(254, 255, 255, 0.937);
+ }
+ h1:hover {
+     color:#010101;
+ }
+ h3:hover{
+     color:black;
+ }
+ h4:hover{
+     color: black;
+ }
+ ul:hover{
+     color:black;
+ }
+ 
